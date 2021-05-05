@@ -1,4 +1,6 @@
-# sublime-talk
-All kinds of awesome sublime tricks to get you developing like The Flash 🏃🌪
+# Shortcuts talk
 
-Check it out at http://jamesmorgan.com/sublime-talk
+http://jamesmorgan.com/shortcuts
+
+- Install prettier and eslint
+- npm i
